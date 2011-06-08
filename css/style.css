@@ -194,6 +194,7 @@ a:hover {
 }
 
 #main {
+    color: #444;
     font-family: Georgia, serif;
     float: right;
     width: 500px;
